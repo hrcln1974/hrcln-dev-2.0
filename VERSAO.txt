@@ -1,0 +1,5 @@
+HRCLN DEV 2.0 — ENTREGA PRODUÇÃO
+Versão: 2.0.0
+Data: 2026-09-28
+Status: Validado localmente
+Arquitetura: site estático multipágina, preparado para futura integração com HRCLN CORE.
